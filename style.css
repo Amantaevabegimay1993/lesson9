@@ -1,0 +1,88 @@
+.block{
+    border: 1px solid black;
+    background: rgb(83, 78, 78);
+    width:500px;
+    height: 500px;
+    margin: 0 auto;
+    position: relative;
+    right:300px;
+ }   
+ .lego{
+     border: 1px solid black;
+     background-color:rgb(83, 78, 78);
+     width: 500px;
+     height: 500px;
+     margin: o auto;
+     position: relative;
+     left: 600px;
+     bottom:500px;   
+}
+.block1{
+    background:#7B93EA;
+    width:50px ;
+height:50 px;
+left:10px;
+top:10px;
+margin:0 auto;
+position:absolute;
+z-index:2px;
+
+}
+.block2{
+    background:#7B93EA;
+    width:50px;
+height:50px;
+left: 30px;
+margin:5px;
+position:absolute;
+z-index: 10;
+top:20px;
+}
+.block3{
+    background:#7B93EA;
+    width:50px;
+height:50px;
+left:50px;
+margin:5px;
+position:absolute;
+z-index: 15px;
+top:50px;
+z-index: 5;
+}
+.lego1{
+    background: green;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 70px;
+    
+    top: 80px;
+    
+}
+.lego2{
+    background: green;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 120px;
+    margin-left: 5px;
+    top: 50px;
+}
+.lego3{
+    background: green;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    margin-left: 5px;
+    left:120px;
+    top: 105px; ;
+}
+    
+
+    
+    
+
+    
+
+
+
